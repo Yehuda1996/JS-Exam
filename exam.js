@@ -325,4 +325,10 @@ let militaryUnit = {
   console.log(Mission5(militaryUnit));
   //from the js repl in the reduce it shows the answer
   
- 
+ module.exports = {
+    Mission1,
+    Mission2,
+    Mission3,
+    Mission4,
+    Mission5
+ }
